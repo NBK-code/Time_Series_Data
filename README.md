@@ -1,4 +1,4 @@
-#Tips for Time Series
+Tips for Time Series
 ### EDA
 1. Dealing with time series data involves a lot of data analysis.
 2. Often it is better to index the dataframe with the time variable. Enables faster querying.
