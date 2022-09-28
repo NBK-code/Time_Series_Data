@@ -1,4 +1,4 @@
-##Tips for Time Series
+Tips for Time Series
 
 ### EDA
 1. Dealing with time series data involves a lot of data analysis.
