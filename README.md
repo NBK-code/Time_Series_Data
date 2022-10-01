@@ -4,6 +4,7 @@ Tips for Time Series
 1. Mean is constant.
 2. Standard Deviation is constant.
 3. No seasonality or cyclicity.
+4. Non-stationary data can be converted into stationary data by differencing.
 
 ## EDA
 1. Dealing with time series data involves a lot of data analysis.
