@@ -26,4 +26,4 @@ Tips for Time Series
 
 ## Machine Learning Methods for Time Series Forecasting
 1. Any regressor
-2. RNNs, LSTMs, GRUs
+2. RNNs, LSTMs, GRUs, 1d CNNs
